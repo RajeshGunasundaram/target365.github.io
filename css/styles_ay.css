@@ -1,0 +1,101 @@
+::-webkit-scrollbar{width:5px;}
+ul.dot li, li.dot{list-style:initial;}
+.feature-info.p-left65{padding-left:65px;padding-right:0;}
+.scrollup{background:#f39100 url(../images/scroll-top-arrow.png) no-repeat 15px 14px;}
+.yamm .yamm-content{padding:15px 15px;}
+.yamm .dropdown.yamm-fw .dropdown-menu{left:initial;right:initial;}
+.feature-info > h3{margin:0px 0 8px 0;}
+.font-greydrk{color:#656565;}
+.padd0{padding:0px;}
+.pos_relative{position:relative;}
+.bg_benifit_overlay{position:absolute;top:0;left:0;bottom:0;right:0;height:100%;width:100%;background:rgba(51, 51, 51, 0.63);}
+.bg_client_overlay{position:absolute;top:0;left:0;bottom:0;right:0;height:100%;width:100%;background:rgba(51, 51, 51, 0.68);}
+.bg_client_overlay.lite{background:rgba(51, 51, 51, 0.21);}
+.side_to_tab{height:280px !important;width:800px !important;}
+.compact .header{background:#fff;}
+.header.headr-style-1 .navbar-default .navbar-nav > li > a, .header.headr-style-1 .navbar-default .navbar-text,
+.navbar-default .navbar-nav > li > a, .navbar-default .navbar-text{color:#333;font-size:13px;}
+.header.headr-style-1 .navbar-default .navbar-nav .dropdown-menu{background:#fff;border:1px solid rgba(0,0,0,.15);}
+.navbar-brand.logo.logo-blue{background:url(../images/logo.png) no-repeat left 19px;height: 55px}
+.ms-nav-next,.ms-nav-prev{display:none;}
+.home_abtparalax{background:url("https://s3-us-west-2.amazonaws.com/adyog/adyog/home_abtparalax.jpg") no-repeat fixed 100% 100%;}
+.client_logo img{height:40px;}
+.bg-texture.pad_adj_tex{padding:30px 0px;}
+.contact_bg{background:url("https://s3-us-west-2.amazonaws.com/adyog/adyog/contact_banner.png") no-repeat center center;background-size:cover;}
+.box_contact{background:#009ff0;color:#fff;padding:5px;text-align:center;}
+.button a.whte-border:hover,
+.button a.whte-border:active,
+.button a.whte-border:focus{box-shadow:none;}
+.button a.whte-border:hover{border:solid 1px #FFF;background:#FFF;color:#f39100;}
+.Wehire_bg{background:url("https://s3-us-west-2.amazonaws.com/adyog/adyog/wehire_banner.jpg") no-repeat center center;background-size:cover;}
+.feature-info > h3{text-transform:uppercase;}
+.page-header.two.services_ban{background:url("https://s3-us-west-2.amazonaws.com/adyog/adyog/services.jpg") no-repeat center top;background-size:cover;}
+.paralax_benifit.services_benifit{background:url("https://s3-us-west-2.amazonaws.com/adyog/adyog/services_fxd.jpg") no-repeat fixed center center;}
+.page-header.two.mobile_app_itservices{background:url(https://s3-us-west-2.amazonaws.com/adyog/adyog/mob_app_web_design.jpg) no-repeat center top;background-size:cover;}
+.paralax_benifit.mobile_app_benifit{background:url("https://s3-us-west-2.amazonaws.com/adyog/adyog/mobile_app_fxd.jpg") no-repeat fixed center center;}
+.bg-shape-image.half_paralax.mobile_app{background:#E2DEDF url("https://s3-us-west-2.amazonaws.com/adyog/adyog/phone_hand_half_fxd.jpg") no-repeat fixed center center;}
+.page-header.two.user_exp_design_itservices{background:url(https://s3-us-west-2.amazonaws.com/adyog/adyog/user_exp_design.jpg) no-repeat center top;background-size:cover;}
+.paralax_benifit.user_exp_design_benifit{background:url("https://s3-us-west-2.amazonaws.com/adyog/adyog/user_exp_design_fxd.jpg") no-repeat fixed center center;}
+.box-icon.date{padding-top:30px;}
+.page-header.two.app_modern_itservices{background:url(https://s3-us-west-2.amazonaws.com/adyog/adyog/application_modern.jpg) no-repeat center top;background-size:cover;}
+.paralax_benifit.app_modern_benifit{background:url("https://s3-us-west-2.amazonaws.com/adyog/adyog/application_modern_fxd.jpg") no-repeat fixed center center;}
+.page-header.two.cloud_service_itservices{background:url(https://s3-us-west-2.amazonaws.com/adyog/adyog/cloud_services.png) no-repeat center top;background-size:cover;}
+.paralax_benifit.cloud_service_benifit{background:url("https://s3-us-west-2.amazonaws.com/adyog/adyog/cloud_services_fxd.jpg") no-repeat fixed center center;}
+.two-boxes-bgimg.half_paralax.mobile_app{background:url("../images/itservices/paralax/cloud_services_half_fxd.jpg") no-repeat fixed center center;}
+.page-header.two.bigdata_itservices{background:url(https://s3-us-west-2.amazonaws.com/adyog/adyog/big_data.jpg) no-repeat center top;background-size:cover;}
+.paralax_benifit.bigdata_benifit{background:url("https://s3-us-west-2.amazonaws.com/adyog/adyog/big_data_fxd.jpg") no-repeat fixed center center;}
+.nav-tabs.tabs-style2 > li{margin:0 10px 15px 0;}
+.col-test-3 .carousel-indicators{width:100%;}
+.bg-overlay-white{background:#ffffff;display:inline-block;padding:60px 0px;width:100%;height:100%;margin-bottom:-5px;top:0;}
+.banner{width:100%;overflow:hidden!important;clear:both;height:600px;z-index:99400;position:relative;}
+.banner.videoblock{height:450px}
+.banner.videoblock.with-padding{padding:0!important}
+.banner.videoblock.with-padding .videooverlay{padding:60px 0}
+.banner.videoblock.green .videooverlay{background-color:rgba(50,219,149,.75)}
+.banner.videoblock.red .videooverlay{background-color:rgba(255,70,97,.75)}
+.banner.videoblock.blue .videooverlay{background-color:rgba(11,178,229,.75)}
+.banner .bgvideo{height:100%;position:absolute;width:100%}
+.banner .bgvideo video{bottom:0;right:0;min-width:100%;min-height:100%;width:auto;height:auto;z-index:-2;overflow:hidden;bottom:-35%;}
+.servicePage .banner,.servicePage .featureblock,.servicePage .halfcutblock,.servicePage .noiceblock{clear:both;overflow:hidden!important}
+.banner .videooverlay{height:100%;position:absolute;width:100%;background-color:rgba(0,0,0,0.50);z-index:99401;}
+.banner .adbannercontent{width:100%;display:block;top:auto;text-align:left;transition:opacity .4s linear;opacity:1;padding-top:15%;padding-top:175px;padding-left:2%;}
+.banner .adbannercontent h1{width:100%;text-align:left;margin:0;color:#ddd;padding:60px 5px 10px;font-weight:300;font-size:32px}
+@media only screen and (min-width:481px){.banner .adbannercontent h1{font-size:44px}
+}
+@media only screen and (min-width:768px){.banner .adbannercontent h1{font-size:48px;padding-top:80px}
+}
+@media only screen and (min-width:992px)and (max-width:1199px){.banner .adbannercontent h1{font-size:52px;padding-top:100px}
+}
+@media only screen and (min-width:1200px),only screen and (min-width:1590px){.banner .adbannercontent h1{font-size:64px;padding-top:100px}
+}
+.banner .adbannercontent h1 strong{color:#ff4661;font-weight:700;display:block;text-align:left;font-size:30px;padding-top:10px}
+.banner .adbannercontent p{font-size:18px;line-height:25px;color:#cacaca;width:95%;margin-right:auto;margin-left:auto;padding:15px 0 60px}
+@media only screen and (min-width:481px){.banner .adbannercontent p{width:80%}
+}
+@media only screen and (min-width:768px){.banner .adbannercontent p{width:75%}
+}
+@media only screen and (min-width:992px)and (max-width:1199px){.banner .adbannercontent p{width:65%}
+}
+@media only screen and (min-width:1200px),only screen and (min-width:1590px){.banner .adbannercontent p{width:55%}
+}
+.banner .adbannercontent .contactuslink{width:300px}
+.banner .adbannercontent .btn{display:block;width:250px;margin:0 auto;padding:10px;height:50px;line-height:30px;font-size:17px;letter-spacing:.2px;font-weight:600;transition:background-color .2s ease-in-out}
+.banner .adbannercontent .linkbutton{padding-top:30px;display:block;width:200px;margin:0 auto;color:#cacaca;text-decoration:underline;line-height:26px;font-size:18px;letter-spacing:.2px;font-weight:400}
+.banner .adbannercontent .linkbutton:hover{color:#fff}
+.banner .adbannercontent .linkbutton:visited{color:#cacaca}
+.banner .adbannercontent .linkbutton.linkico::after{content:' ';width:10px;height:10px;background-image:url(../images/icon-new-window.svg);background-repeat:no-repeat;background-size:10px 10px;display:inline-block;margin-left:5px}
+.ms-layer.text1{text-align:center;font-size:12px !important;font-weight:200;line-height:20px;}
+.vcenterbox{text-align:right;float:right;display:table;padding:0px 15px;}
+.ms-layer.title2.f65{font-size:35px !important;font-weight:normal;}
+.ms-layer.title3{font-size:25px !important;font-weight:100;text-align:center;}
+@media screen and (min-width:768px){.feature-info.p-left65{padding-left:80px;padding-right:0;}
+}
+@media (max-width:999px){.header.headr-style-1 .navbar-default .navbar-nav .dropdown-menu{border:none;}
+}
+@media only screen and (max-width:767px){.banner .adbannercontent{width:100%;display:block;top:auto;text-align:left;transition:opacity .4s linear;opacity:1;padding-top:18%;padding-left:2%;}
+.ms-layer.text1{font-weight:normal;line-height:20px;font-size:12px !important;}
+}
+@media only screen and (max-width:479px){.title1 h2{padding:0px 5px;color:#222222;font-size:20px;}
+.banner .adbannercontent{padding-top:30%;padding-left:2%;}
+.ms-layer.text1{font-weight:normal;line-height:18px;font-size:8px !important;}
+}
